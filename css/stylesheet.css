@@ -1,0 +1,82 @@
+body {
+	font-family: "helvetica neue", helvetica, sans serif;
+	font-size: 13px;
+	background: #F1F1F1;
+	background-color: #ebebeb;
+	}
+
+.content {
+	margin: 140px 0 auto;
+}
+
+.ld-icon {
+	text-align: center;
+
+	}
+	
+.logo-text {
+	font-family: "source sans pro", helvetica, sans serif;
+	font-size: 48px;
+	font-weight: 600;
+	color: #4A8CF7;
+	text-shadow: 0 1px #fff;
+	text-align: center;
+	margin: 10px 0 0 20px;
+	
+	}
+	
+.subtext {
+	font-family: "source sans pro", helvetica, sans serif;
+	font-size: 24px;
+	font-weight: 300;
+	color: #999;
+	text-shadow: 0 1px #fff;
+	text-align: center;
+	margin: 0 0 0 20px;
+
+	
+	}
+	
+#contact-container {
+	margin: 10px auto;
+	width: 540px;
+	padding: 5px 0;
+
+	
+	}
+	
+#contact-buttons {
+	margin: 5px 10px;
+	padding: 5px;
+	width: 130px;
+	border: 1px solid #ddd;
+	background: #fff;
+	float: left;
+	text-align: center;
+
+	}
+	
+img {
+	padding: 5px;
+	}
+	
+a {
+	color: #999;
+	text-decoration: none;
+	font-size: 14px;
+	font-weight: 200;
+	line-height: 18px;
+	
+	}
+	
+a:hover {
+	color: #4A8CF7;
+	}
+	
+ul {
+	list-style: none;
+	}
+	
+.clear {
+	clear: both;
+	}
